@@ -33,18 +33,23 @@ A resume screening web app using Python, Streamlit, and scikit-learn. It extract
 
 ## 🔧 Installation
 
-1. Clone the repository 
-git clone https://github.com/your-username/resume-screening-app.git
-cd resume-screening-app
+1. Clone the repository
+   
+    git clone https://github.com/your-username/resume-screening-app.git
+
+    cd resume-screening-app
 
 2. Install dependencies
-pip install -r requirements.txt
 
-3.Run the app                                                                                                                           
-streamlit run app.py
+    pip install -r requirements.txt
 
-4.If streamlit command is not found, use:
-python -m streamlit run app.py
+3. Run the app
+                                                                                                                          
+    streamlit run app.py
+
+4. If streamlit command is not found, use:
+   
+    python -m streamlit run app.py
 
 ## 👨‍💻 Author
 
