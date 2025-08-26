@@ -6,7 +6,6 @@ A resume screening web app using Python, Streamlit, and scikit-learn. It extract
 ## App Look
 <p align="center">
   <img src="Resume Look.png" />
-" alt="App Screenshot" width="600">
 </p>
 
 ## Requirements
@@ -58,8 +57,7 @@ A resume screening web app using Python, Streamlit, and scikit-learn. It extract
 ---
 ## Output
 <p align="center">
-  <img src="Fraud Detection.png" />
-" alt="App Screenshot" width="600">
+  <img src="Resume Output.png" />
 </p>
 
 ## 👨‍💻 Author
