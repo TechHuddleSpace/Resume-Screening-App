@@ -5,7 +5,7 @@ A resume screening web app using Python, Streamlit, and scikit-learn. It extract
 ---
 
 ## Requirements
-# you need to install all these in your terminal
+ **You need to install all these in your terminal**
 
 - pip install streamlit
 - pip install scikit-learn
